@@ -34,7 +34,7 @@
 
 ### 📫 Let's Connect!
 
-- LinkedIn: www.linkedin.com/in/kristine-tyrholm-7902172a4
+- [LinkedIn](www.linkedin.com/in/kristine-tyrholm-7902172a4)
 
 Feel free to explore my repositories, and let's collaborate on something amazing! 🚀
 
