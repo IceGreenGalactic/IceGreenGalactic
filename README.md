@@ -31,11 +31,12 @@
 
 - [portfolio](#) - A website showcasing my frontend development skills.
 
+
 ### 📫 Let's Connect!
 
-- Email: krityr51867@stud.noroff.no
+- LinkedIn: www.linkedin.com/in/kristine-tyrholm-7902172a4
 
-Feel free to explore my repositories, and let's collaborate on something amazing! 🚀{:.center}
+Feel free to explore my repositories, and let's collaborate on something amazing! 🚀
 
 
 ### 💬Languages and Tools:
