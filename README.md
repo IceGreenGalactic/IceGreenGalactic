@@ -24,8 +24,8 @@
 -  **Year Course:** Sociology
 -  **Current:** Frontend Development at Noroff Nett Online Studies
 ### 💻🎨 Tech Stack
-- Proficient in HTML, CSS, and JavaScript.
--  Skilled in Figma, Photoshop, and VSCode.
+-   HTML, CSS, and JavaScript.
+-   Figma, Photoshop, and VSCode.
  
 ### 🌱 Current Projects
 
