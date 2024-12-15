@@ -7,11 +7,11 @@
 - 🏫 **Professional Role:** Educational leader driving collaboration, innovation, and teamwork in early childhood education.
 - 🚀 **Aspirations:** Striving to become a frontend developer and contribute to the dynamic web development landscape.
 
-- 🌐 **GitHub Name:** [IceGreenGalactic](https://github.com/IceGreenGalactic) (Yes, it's unique!)
+- 🌐 **GitHub Name:** [IceGreenGalactic](https://github.com/IceGreenGalactic) 
 
   
 ### 🌈 Personal Life:
-- 32-year-old parent to an awesome kid.
+- 33-year-old parent to an awesome kid.
 - Always on the lookout for new adventures and challenges.
 - Now, on a new academic adventure🚀<br>
    diving into the world of frontend development at Noroff Nett Online Studies, I am exploring new possibilities and passions.<br>
@@ -24,12 +24,12 @@
 -  **Year Course:** Sociology
 -  **Current:** Frontend Development at Noroff Nett Online Studies
 ### 💻🎨 Tech Stack
--   HTML, CSS, and JavaScript.
+-   HTML, CSS, JavaScript, React, SaSS, Bootstrap.
 -   Figma, Photoshop, and VSCode.
  
 ### 🌱 Current Projects
 
-- [portfolio](#) - A website showcasing my frontend development skills.
+- [portfolio](https://kristinetyrholm.netlify.app/) - A website showcasing my frontend development skills.
 
 
 ### 📫 Let's Connect!
